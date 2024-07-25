@@ -1,4 +1,4 @@
 # AutomationPractice
 This is my first GIT repository.
 <br>
-Author - Karan Kumawat
+Author - Karan (SpanIdea)
